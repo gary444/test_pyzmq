@@ -2,7 +2,7 @@
 import zmq
 import time
 
-host = "127.0.0.1"
+host = "192.168.178.64"
 port = "5002"
 
 # Creates a socket instance
